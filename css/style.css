@@ -8,4 +8,8 @@ html {
 
 body {
     font-family:'Trebuchet MS', sans-serif;
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
 }

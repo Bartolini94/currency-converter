@@ -48,6 +48,7 @@
     padding: 20px;
     border-radius: 5px;
     margin: 20px 0;
+    background-color: hsla(0, 0%, 75%, 0.863);
 }
 
 .form__legend {
